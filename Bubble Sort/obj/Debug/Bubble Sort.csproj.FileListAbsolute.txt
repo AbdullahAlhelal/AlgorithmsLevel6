@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\bin\Debug\Bubble Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\bin\Debug\Bubble Sort.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\obj\Debug\Bubble Sort.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\obj\Debug\Bubble Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Bubble Sort\obj\Debug\Bubble Sort.pdb

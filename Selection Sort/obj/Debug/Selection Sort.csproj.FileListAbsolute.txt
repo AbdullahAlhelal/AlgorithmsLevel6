@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\bin\Debug\Selection Sort.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\bin\Debug\Selection Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\bin\Debug\Selection Sort.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\obj\Debug\Selection Sort.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\obj\Debug\Selection Sort.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\obj\Debug\Selection Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Selection Sort\obj\Debug\Selection Sort.pdb

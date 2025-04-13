@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\bin\Debug\Insertion Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\bin\Debug\Insertion Sort.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\obj\Debug\Insertion Sort.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\obj\Debug\Insertion Sort.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\obj\Debug\Insertion Sort.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Insertion Sort\obj\Debug\Insertion Sort.pdb
