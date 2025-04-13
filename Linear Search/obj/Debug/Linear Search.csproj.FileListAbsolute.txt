@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\bin\Debug\Linear Search.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\bin\Debug\Linear Search.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\bin\Debug\Linear Search.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\obj\Debug\Linear Search.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\obj\Debug\Linear Search.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\obj\Debug\Linear Search.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Linear Search\obj\Debug\Linear Search.pdb

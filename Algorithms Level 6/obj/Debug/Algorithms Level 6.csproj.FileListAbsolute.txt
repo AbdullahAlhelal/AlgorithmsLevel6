@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\bin\Debug\Algorithms Level 6.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\bin\Debug\Algorithms Level 6.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\bin\Debug\Algorithms Level 6.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\obj\Debug\Algorithms Level 6.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\obj\Debug\Algorithms Level 6.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\obj\Debug\Algorithms Level 6.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\Algorithms Level 6\obj\Debug\Algorithms Level 6.pdb
