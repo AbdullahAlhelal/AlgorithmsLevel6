@@ -45,6 +45,7 @@ namespace BST_Algorithm
                 }
                 else if ( value.CompareTo(node.Value) < 0 )
                 {
+
                     node.Left = Insert(node.Left , value);
                 }
                 else if ( value.CompareTo(node.Value) > 0 )

@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\bin\Debug\StackExapmles.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\bin\Debug\StackExapmles.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\bin\Debug\StackExapmles.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\obj\Debug\StackExapmles.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\obj\Debug\StackExapmles.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\obj\Debug\StackExapmles.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Algorithms Level 6\StackExapmles\obj\Debug\StackExapmles.pdb
