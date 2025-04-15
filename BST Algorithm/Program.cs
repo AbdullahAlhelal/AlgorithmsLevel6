@@ -109,6 +109,26 @@ namespace BST_Algorithm
             {
                 PrintTree(Root , 0);
             }
+            public bool Search(T value)
+            {
+                return Search(Root , value) != null;
+            }
+
+            private BinarySearchTreeNode<T> Search(BinarySearchTreeNode<T> node , T value)
+            {
+                if ( node == null || node.Value.Equals(value) )
+                {
+                    return node;
+                }
+                if ( value.CompareTo(node.Value) < 0 )
+                {
+                    return Search(node.Left , value);
+                }
+                else
+                {
+                    return Search(node.Right , value);
+                }
+            }
 
 
             private void PrintTree(BinarySearchTreeNode<T> root , int space)
