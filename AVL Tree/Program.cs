@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -266,7 +267,43 @@ namespace AVL_Tree
             }
             return current;
         }
+        public bool Find(int value)
+        {
+           return FindNode(root , value) != null;
+        }
+
+        private AVLNode FindNode(AVLNode node , int value)
+        {
+             if ( node == null )
+            {
+                return node;
+            }
+
+             Queue<AVLNode> values = new Queue<AVLNode>();
+
+            values.Enqueue(node);
+            while (values.Count >0)
+            {
+                node = values.Dequeue();
+
+                if (value == node.Value)
+                    return node;
+
+                if ( value < node.Value )
+                   values.Enqueue(node.Left);
+
+                if ( value > node.Value )
+                    values.Enqueue(node.Right);
+
+            }
+
+
+             return null;
+        }
     }
+
+   
+
     internal class Program
     {
         static void Main(string[] args)
@@ -296,6 +333,8 @@ namespace AVL_Tree
                 Console.WriteLine("\n-------------------------------------------------\n");
             }
             Console.ReadKey();
+
+            tree.Find(10);
         }
     }
 }
