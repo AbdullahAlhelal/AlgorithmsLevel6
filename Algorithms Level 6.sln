@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST Algorithm", "BST Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL Tree", "AVL Tree\AVL Tree.csproj", "{1A1E4D2B-CE7C-4E49-8B94-AFD5B0D0EF01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExapmles", "StackExapmles\StackExapmles.csproj", "{145164B9-7E56-4570-8F40-A5674A92F681}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackandQueueExapmles", "StackExapmles\StackandQueueExapmles.csproj", "{145164B9-7E56-4570-8F40-A5674A92F681}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
