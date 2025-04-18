@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL Tree", "AVL Tree\AVL Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackandQueueExapmles", "StackExapmles\StackandQueueExapmles.csproj", "{145164B9-7E56-4570-8F40-A5674A92F681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable-SortedList-SortedSetProblems", "HashTable-SortedList-SortedSetProblems\HashTable-SortedList-SortedSetProblems.csproj", "{64294400-4046-4D86-8D84-5F3C9CE038D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{145164B9-7E56-4570-8F40-A5674A92F681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{145164B9-7E56-4570-8F40-A5674A92F681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{145164B9-7E56-4570-8F40-A5674A92F681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64294400-4046-4D86-8D84-5F3C9CE038D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64294400-4046-4D86-8D84-5F3C9CE038D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64294400-4046-4D86-8D84-5F3C9CE038D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64294400-4046-4D86-8D84-5F3C9CE038D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
